@@ -1,0 +1,38 @@
+/*karakteristik*/
+body { 
+	background-color:#;
+	font-size:20px;
+}
+
+img{
+	margin-top:10px;
+	margin-left:2px;
+	margin-right:2px;
+	border-radius:10px;
+}
+
+#list {
+	background-color:#bdb192;
+}
+			
+ul{
+	padding-bottom:20px;
+	margin-top:0px;
+}
+			
+ul{
+	font-size:18px;
+}
+			
+p {
+	font-family: 'Comforter Brush', cursive;
+	color: #4a707a;
+	font-size:18px;
+}
+
+#list{
+	font-family: 'Comforter Brush', cursive;
+	background-color: #c2c8c5;
+	color: #4a707a;
+	font-size:18px;
+}
